@@ -10,7 +10,7 @@ Machine Learning Course Project
 February 2023
 
 # About the project
-In this project, I have implemented the recommender system with two methods, [1-Non Negative Matrix Factorization](https://github.com/ms-heidari/Recommender-System-with-Non-Negative-Matrix-Factorization/tree/main/NMF) and [2-Ordinal Non Negative Matrix Factorization](https://github.com/ms-heidari/Recommender-System-with-Non-Negative-Matrix-Factorization/tree/main/Ord-NMF), by adapting papers such as [paper 1](https://github.com/ms-heidari/Recommender-System-with-Non-Negative-Matrix-Factorization/blob/main/Research%20papers/Paper1-ordNMF.pdf) and [paper 2](https://github.com/ms-heidari/Recommender-System-with-Non-Negative-Matrix-Factorization/blob/main/Research%20papers/Paper2-Nmf%20Algorithms.pdf). And every time I have run it on [Netflix Prize dataset](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) and reported the result, it is interesting to examine the error history of two matrix W and H in both methods.
+In this project, I have implemented the recommender system with two methods, [1-Non Negative Matrix Factorization](https://github.com/ms-heidari/Recommender-System-with-Non-Negative-Matrix-Factorization/tree/main/NMF) and [2-Ordinal Non Negative Matrix Factorization](https://github.com/ms-heidari/Recommender-System-with-Non-Negative-Matrix-Factorization/tree/main/Ord-NMF), And every time I have run it on [Netflix Prize dataset](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) and reported the result, it is interesting to examine the error history of two matrix W and H in both methods.
 
 
 # [Dataset](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data)
